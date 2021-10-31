@@ -1,4 +1,4 @@
-<img width="1360" alt="cover" src="https://user-images.githubusercontent.com/83498152/139588532-f2121f49-6265-48f4-bcda-3a7fd5d52a41.png">
+<img width="1360" alt="Screenshot 2021-10-31 at 8 06 02 PM" src="https://user-images.githubusercontent.com/83498152/139588686-d2a7e4a7-7c75-4672-93d1-7f7c81e001d7.png">
 
 ### Hi there 👋
 
