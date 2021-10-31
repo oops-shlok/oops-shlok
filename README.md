@@ -1,16 +1,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning React Native and Data Structure and Algorithms
 - 😄 Pronouns: He/His
-- 📫 How to reach me: ig: deep.upu9@gmail.com
+- 📫 How to reach me: deep.upu9@gmail.com
 
 ## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/oops-shlok/github-readme-stats"><img alt="Shlok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oops-shlok&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <br/>
     <br/>
   <a href="https://github.com/oops-shlok/github-readme-stats"><img alt="Shlok's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
