@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning React Native and Data Structure and Algorithms
 - 😄 Pronouns: He/His
 - 📫 How to reach me: ig: deep.upu9@gmail.com
 
