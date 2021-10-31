@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/shlok-upadhyay/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/shlok_.upadhyay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
