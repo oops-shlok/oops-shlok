@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="http://Users/shlokupadhyay/Desktop/cover.png" height="175px"/></a>
+<img width="1360" alt="cover" src="https://user-images.githubusercontent.com/83498152/139588532-f2121f49-6265-48f4-bcda-3a7fd5d52a41.png">
+
 ### Hi there 👋
 
 - 🌱 I’m currently learning React Native and Data Structure and Algorithms
