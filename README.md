@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="file:///Users/shlokupadhyay/Desktop/cover.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="http://file:///Users/shlokupadhyay/Desktop/cover.png" height="175px"/></a>
 ### Hi there 👋
 
 - 🌱 I’m currently learning React Native and Data Structure and Algorithms
