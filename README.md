@@ -7,3 +7,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ig: deep.upu9@gmail.com
 
 <img src="https://github-readme-stats.vercel.app/api?username=oops-shlok&show_icons=true&theme=onedark" >
+
+<h1>MOST USED LANGUAGES</h1>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&layout=compact">
