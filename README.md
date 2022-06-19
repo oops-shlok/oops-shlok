@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning React Native and Data Structure and Algorithms
+- 🌱 I’m currently learning Flutter and Data Structure and Algorithms
 - 😄 Pronouns: He/His
 - 📫 How to reach me: deep.upu9@gmail.com
 
