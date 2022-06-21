@@ -60,19 +60,12 @@
       />
     </a>
   </div>
+  </br>
   <a href="https://github.com/oops-shlok/github-readme-stats"><img alt="Shlok's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
-
-
 <br/>
 <br/>
-
-<a href="https://github.com/oops-shlok/github-readme-activity-graph"><img alt="Shlok's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=oops-shlok&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 
 
 ## Connect with me:
