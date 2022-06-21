@@ -44,7 +44,7 @@
   <div align="center" title="Go to Source">
     <a href="https://github.com/Ashutosh00710/github-readme-stats">
       <img
-        width="325"
+        width="425"
         align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
       />
