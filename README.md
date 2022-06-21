@@ -27,7 +27,7 @@
     <a href="https://github.com/Ashutosh00710/github-readme-stats" title="Go to Source">
       <img
         align="left"
-        width="425"
+        width="400"
         src="https://github-readme-streak-stats.herokuapp.com/?user=oops-shlok&theme=monokai-metallian&border=61dafb&hide_border=true"
         alt="zumrudu-anka"
       />
@@ -35,7 +35,7 @@
     <a href="https://github.com/Ashutosh00710/github-readme-stats" title="Go to Source">
       <img
         align="right"
-        width="425"
+        width="400"
         src="https://github-readme-stats.vercel.app/api?username=oops-shlok&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
       />
     </a>
