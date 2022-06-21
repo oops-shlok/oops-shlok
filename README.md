@@ -22,9 +22,44 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/oops-shlok/github-readme-stats"><img alt="Shlok's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oops-shlok&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
-    <br/>
+  <div align="center">
+  <div align="center">
+    <a href="https://github.com/Ashutosh00710/github-readme-stats" title="Go to Source">
+      <img
+        align="left"
+        width="396"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=oops-shlok&theme=monokai-metallian&border=61dafb&hide_border=true"
+        alt="zumrudu-anka"
+      />
+    </a>
+    <a href="https://github.com/Ashutosh00710/github-readme-stats" title="Go to Source">
+      <img
+        align="right"
+        width="396"
+        src="https://github-readme-stats.vercel.app/api?username=oops-shlok&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
+  <br /><br /><br /><br /><br /><br /><br /><br /><br />
+  <div align="center" title="Go to Source">
+    <a href="https://github.com/Ashutosh00710/github-readme-stats">
+      <img
+        width="325"
+        align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+      />
+    </a>
+  </div>
+  <br />
+  <div align="center">
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
+      <img
+        src="https://activity-graph.herokuapp.com/graph?username=oops-shlok&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
+        alt="Contributions Graph"
+        width="100%"
+      />
+    </a>
+  </div>
   <a href="https://github.com/oops-shlok/github-readme-stats"><img alt="Shlok's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
