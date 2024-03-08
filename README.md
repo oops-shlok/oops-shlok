@@ -1,76 +1,56 @@
+<h2 align="left">Hello World 👋🏻 I'm Shlok</h2>
+
 <img width="1360" alt="Screenshot 2021-10-31 at 8 06 02 PM" src="https://user-images.githubusercontent.com/83498152/139588686-d2a7e4a7-7c75-4672-93d1-7f7c81e001d7.png">
 
-### Hi there 👋
+<p align="left">Hi there! I'm Shlok Upadhyay, a passionate Full Stack and App developer who loves to explore the world of technology and create innovative solutions. This is my GitHub playground where I experiment with various projects, collaborate with amazing developers, and contribute to open-source initiatives.</p>
 
-- 🌱 I’m currently learning Flutter and Data Structure and Algorithms
-- 😄 Pronouns: He/His
-- 📫 How to reach me: deep.upu9@gmail.com
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oops-shlok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=oops-shlok&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oops-shlok&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-## 🖥 Languages
-<p>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-</p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-## 📊 My Github Stats
+###
 
-  <br/>
-  <div align="center">
-  <div align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-stats" title="Go to Source">
-      <img
-        align="left"
-        width="400"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=oops-shlok&theme=monokai-metallian&border=61dafb&hide_border=true"
-        alt="zumrudu-anka"
-      />
-    </a>
-    <a href="https://github.com/Ashutosh00710/github-readme-stats" title="Go to Source">
-      <img
-        align="right"
-        width="400"
-        src="https://github-readme-stats.vercel.app/api?username=oops-shlok&show_icons=true&theme=react&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/Ashutosh00710/github-readme-stats">
-      <img
-        width="425"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  <br />
-  <div align="center">
-    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
-      <img
-        src="https://activity-graph.herokuapp.com/graph?username=oops-shlok&theme=react-dark&bg_color=20232a&hide_border=true&area=true"
-        alt="Contributions Graph"
-        width="100%"
-      />
-    </a>
-  </div>
-  </br>
-  <a href="https://github.com/oops-shlok/github-readme-stats"><img alt="Shlok's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oops-shlok&langs_count=8&count_private=true&layout=compact&theme=onedark&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  
-<br/>
-<br/>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/shlok-upadhyay-521065104/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/shlok_.upadhyay/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+###
