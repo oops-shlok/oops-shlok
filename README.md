@@ -1,6 +1,6 @@
 <h2 align="left">Hello World 👋🏻 I'm Shlok</h2>
 
-<img width="1360" alt="Screenshot 2021-10-31 at 8 06 02 PM" src="https://user-images.githubusercontent.com/83498152/139588686-d2a7e4a7-7c75-4672-93d1-7f7c81e001d7.png">
+<img width="1360" alt="img" src="https://user-images.githubusercontent.com/83498152/139588686-d2a7e4a7-7c75-4672-93d1-7f7c81e001d7.png">
 
 <p align="left">Hi there! I'm Shlok Upadhyay, a passionate Full Stack and Application developer who loves to explore the world of technology and create innovative solutions. This is my GitHub playground where I experiment with various projects, collaborate with amazing developers, and contribute to open-source initiatives</p>
 
