@@ -65,9 +65,3 @@
 </div>
 
 ###
-
-<div>
-  <p align="center"> <img style="align-item: center" src="https://github-profile-trophy.vercel.app/?username=oops-shlok&theme=onestar&row=2&column=3" alt="trophy" /> </p>
-</div>
-
-###
