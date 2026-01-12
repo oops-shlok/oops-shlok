@@ -2,7 +2,7 @@
 
 <img width="1360" alt="img" src="https://user-images.githubusercontent.com/83498152/139588686-d2a7e4a7-7c75-4672-93d1-7f7c81e001d7.png">
 
-<p align="left">Hi there! I'm Shlok Upadhyay, a passionate Software Engineer who loves to explore the world of technology and create innovative solutions. This is my GitHub playground where I experiment with various projects, collaborate with amazing developers, and contribute to open-source initiatives.</p>
+<p align="left">Hi there! I'm Shlok Upadhyay, a passionate Software Engineer who loves to explore the world of technology and create innovative solutions. This is my GitHub playground where I experiment with various projects, collaborate with amazing developers, and contribute to open-source initiatives</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=oops-shlok&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
